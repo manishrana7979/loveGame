@@ -3,11 +3,11 @@ Welcome to the Funny Love Game GitHub repository – the ultimate destination fo
 
 How to Play:
 
-<li> Clone or download the repository to your local machine.</li><br>
-2) Run the game script and get ready for a hilarious experience.<br>
-3) The system will randomly pop the question, "Do you love me?"<br>
-4Your mission: choose between "yes" or "no" with a smile on your face.<br>
-Brace yourself for unexpected and amusing responses based on your selection.<br>
+<li> Clone or download the repository to your local machine.</li>
+<li>Run the game script and get ready for a hilarious experience.</li>
+<li>The system will randomly pop the question, "Do you love me?"</li>
+<li>Your mission: choose between "yes" or "no" with a smile on your face.</li>
+<li>Brace yourself for unexpected and amusing responses based on your selection.</li>
 
 Features:
 
