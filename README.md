@@ -23,3 +23,4 @@ Disclaimer:<br>
 This game is purely for amusement purposes and should be approached with a sense of humor. It is not intended to accurately gauge or influence romantic feelings. Laughter is the primary goal, so play on and enjoy the light-hearted moments!
 <br><br>
 Ready to add a touch of humor to the age-old question? Clone, run, and have a blast with the Funny Love Game!
+
